@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='https://www.lamda.nju.edu.cn/'>LAMDA Group</a>, Nanjing University, Nanjing, China.
-subtitle: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
+subtitle: Email: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
 
 profile:
   align: right
@@ -28,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently I am a Ph.D. student of <a href=https://ai.nju.edu.cn>School of Artificial Intelligence</a> in Nanjing University, advised by Professor <a href="https://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and Professor <a href="https://ai.nju.edu.cn/zhangzongzhang/">Zongzhang Zhang</a>. I am a member of <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, led by professor <a href="http://cs.nju.edu.cn/zhouzh/">Zhi-Hua Zhou</a>.
+Currently I am a Ph.D. student of [School of Artificial Intelligence](https://ai.nju.edu.cn) in Nanjing University, advised by Professor [Yang Yu](https://www.lamda.nju.edu.cn/yuy/) and Professor [Zongzhang Zhang](https://ai.nju.edu.cn/zhangzongzhang/). I am a member of [LAMDA Group](http://lamda.nju.edu.cn), led by Professor [Zhi-Hua Zhou](http://cs.nju.edu.cn/zhouzh/).
 
 I am interested in theoretically justified algorithms and real-world applications of Reinforcement Learning (RL). When RL ventures beyond a trivial simulator, numerous challenging problems may arise, such as the absence of suitable reward functions, the continually evolving task distributions, and delayed feedback over long horizons, to name a few. To deal with the above issues, I am currenly working on:
 
-+ Reward Model Learning/Anti-hacking (incl. Adversarial Imitation Learning, RLHF, etc.)
-+ Scaling RL (incl. RL for Long-horizon Agent Tasks, Environment/Task Scaling, etc.)
-+ Credit Assignment (incl. Value Model Learning)
++ Scaling RL (incl. **RL for Long-horizon Agent Tasks**, **Environment/Task Scaling**, etc.)
++ Credit Assignment (incl. **Value Model Learning**)
++ Reward Model Learning/Anti-hacking (incl. **Adversarial Imitation Learning**, **RLHF**, etc.)
