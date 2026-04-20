@@ -8,7 +8,7 @@ subtitle: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
 profile:
   align: right
   image: portrait.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -32,6 +32,6 @@ Currently I am a Ph.D. student of [School of Artificial Intelligence](https://ai
 
 I am interested in theoretically justified algorithms and real-world applications of Reinforcement Learning (RL). When RL ventures beyond a trivial simulator, numerous challenging problems may arise, such as the absence of suitable reward functions, the continually evolving task distributions, and delayed feedback over long horizons, to name a few. To deal with the above issues, I am currenly working on:
 
-+ Scaling RL (incl. **RL for Long-horizon Agent Tasks**, **Environment Scaling**, etc.)
-+ Credit Assignment (incl. **Value Model Learning**, **Process Reward Model**, etc.)
-+ Reward Model Learning/Anti-hacking (incl. **Adversarial Imitation Learning**, **RLHF**, etc.)
++ Scaling RL (incl. RL for long-horizon agent tasks, environment scaling, etc.)
++ Credit Assignment (incl. value model learning, process reward model, etc.)
++ Reward Model Learning/Anti-hacking (incl. adversarial imitation learning, RLHF, etc.)
