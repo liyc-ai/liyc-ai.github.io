@@ -32,6 +32,6 @@ Currently I am a Ph.D. student of [School of Artificial Intelligence](https://ai
 
 I am interested in theoretically justified algorithms and real-world applications of Reinforcement Learning (RL). When RL ventures beyond a trivial simulator, numerous challenging problems may arise, such as the absence of suitable reward functions, the continually evolving task distributions, and delayed feedback over long horizons, to name a few. To deal with the above issues, I am currenly working on:
 
-+ Scaling RL (incl. **RL for Long-horizon Agent Tasks**, **Environment/Task Scaling**, etc.)
++ Scaling RL (incl. **RL for Long-horizon Agent Tasks**, **Environment Scaling**, etc.)
 + Credit Assignment (incl. **Value Model Learning**, **Process Reward Model**, etc.)
 + Reward Model Learning/Anti-hacking (incl. **Adversarial Imitation Learning**, **RLHF**, etc.)
