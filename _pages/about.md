@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='https://www.lamda.nju.edu.cn/'>LAMDA Group</a>, Nanjing University, Nanjing, China.
-subtitle: Email: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
+subtitle: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
 
 profile:
   align: right
