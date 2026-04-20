@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='https://www.lamda.nju.edu.cn/'>LAMDA Group</a>, Nanjing University, Nanjing, China.
+subtitle: liyc [at] lamda.nju.edu.cn, ychenli.x [at] gmail.com
 
 profile:
   align: right
@@ -27,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently I am a Ph.D. student of <a href=https://ai.nju.edu.cn>School of Artificial Intelligence</a> in Nanjing University, advised by Professor <a href="https://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and Professor <a href="https://ai.nju.edu.cn/zhangzongzhang/">Zongzhang Zhang</a>. I am a member of <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, led by professor <a href="http://cs.nju.edu.cn/zhouzh/">Zhi-Hua Zhou</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in theoretically justified algorithms and real-world applications of Reinforcement Learning (RL). When RL ventures beyond a trivial simulator, numerous challenging problems may arise, such as the absence of suitable reward functions, the continually evolving task distributions, and delayed feedback over long horizons, to name a few. To deal with the above issues, I am currenly working on:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
++ Reward Model Learning/Anti-hacking (incl. Adversarial Imitation Learning, RLHF, etc.)
++ Scaling RL (incl. RL for Long-horizon Agent Tasks, Environment/Task Scaling, etc.)
++ Credit Assignment (incl. Value Model Learning)
